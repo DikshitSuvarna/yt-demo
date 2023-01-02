@@ -47,7 +47,7 @@ def API_key(API):
 
 # In[5]:
 
-API_KEY=API_key('AIzaSyBF5bGu8JLA-4H3aKpwAZP8NFfanSI-OJY')
+API_KEY=API_key('Your API KEY')
 
 
 # In[6]:
